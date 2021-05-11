@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Miles_124.jpeg</filename>
+	<path>/Users/milesfranklin/Box/Grad_School/DATA_690/Final/images_object_detection/train/Miles_124.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Miles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>63</ymin>
+			<xmax>850</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
